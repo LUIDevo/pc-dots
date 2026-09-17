@@ -67,6 +67,14 @@
     "branch": "main",
     "commit": "ff8b3580935818ef2f21bdd651f057a2ae071eab"
   },
+  "neo-tree.nvim": {
+    "branch": "v3.x",
+    "commit": "ebd66767191714e008ce73b769518a763ff31bdc"
+  },
+  "nui.nvim": {
+    "branch": "main",
+    "commit": "de740991c12411b663994b2860f1a4fd0937c130"
+  },
   "nvim-cmp": {
     "branch": "main",
     "commit": "a1d504892f2bc56c2e79b65c6faded2fd21f3eca"
@@ -74,6 +82,10 @@
   "nvim-colorizer.lua": {
     "branch": "master",
     "commit": "a065833f35a3a7cc3ef137ac88b5381da2ba302e"
+  },
+  "nvim-emmet": {
+    "branch": "main",
+    "commit": "cde4fb2968704aae5c18b7f8a9bc2508767bb78d"
   },
   "nvim-lspconfig": {
     "branch": "master",
@@ -106,6 +118,14 @@
   "render-markdown.nvim": {
     "branch": "main",
     "commit": "5adf0895310c1904e5abfaad40a2baad7fe44a07"
+  },
+  "startup.nvim": {
+    "branch": "master",
+    "commit": "bd835f4fd95dbb30cb4607a8d7a090216fb6d035"
+  },
+  "telescope-file-browser.nvim": {
+    "branch": "master",
+    "commit": "3610dc7dc91f06aa98b11dca5cc30dfa98626b7e"
   },
   "telescope.nvim": {
     "branch": "master",
